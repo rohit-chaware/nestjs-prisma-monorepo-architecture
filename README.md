@@ -1,4 +1,4 @@
-# Nestj-Primsa-Multi-Lambda-Monorepo-Architecture
+# Nestjs-Primsa-Multi-Lambda-Monorepo-Architecture
 
 Monorepo architecture for multi-lambda functions with AWS CDK infrastructure and GitHub Actions CI/CD.
 
